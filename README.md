@@ -21,4 +21,4 @@ Build the container.
 Run Monero CLI Wallet.
 
 ## See also
-- [fedemahf/docker-monero-wallet-cli](https://github.com/fedemahf/docker-monero-wallet-cli) - Simple Docker container for Monero CLI Wallet
+- [fedemahf/docker-monerod](https://github.com/fedemahf/docker-monerod) - Simple Docker container for Monero daemon
