@@ -19,3 +19,6 @@ Build the container.
 ### `./run.sh`
 
 Run Monero CLI Wallet.
+
+## See also
+- [fedemahf/docker-monero-wallet-cli](https://github.com/fedemahf/docker-monero-wallet-cli) - Simple Docker container for Monero CLI Wallet
